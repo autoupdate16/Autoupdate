@@ -1,2 +1,2 @@
-echo test 2
+coucou socreeps
 pause
